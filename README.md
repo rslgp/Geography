@@ -6,6 +6,7 @@ File: CountriesToContinent.java
 Usage: countriesToContinent(String)
 
 input: String with countries split by ", "
+
 ex.: "Brazil, United States, Argentina, Australia"
 
 output: countries categorized by continent
