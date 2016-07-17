@@ -5,7 +5,7 @@ File: CountriesToContinent.java
 
 Usage: countriesToContinent(String)
 
-input: String with countries split by ", "
+input: String with countries split by ", " in English
 
 ex.: "Brazil, United States, Argentina, Australia"
 
